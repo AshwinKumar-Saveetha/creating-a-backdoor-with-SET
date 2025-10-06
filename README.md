@@ -56,7 +56,7 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 ```bash
 sudo setoolkit
 ```
-<img width="1050" height="881" alt="Screenshot 2025-09-25 083745" src="https://github.com/user-attachments/assets/6b6f544b-f320-49c1-b77d-f965c5460d7d" />
+<img width="345" height="213" alt="image" src="https://github.com/user-attachments/assets/13e9c70e-2ed1-4cf8-b8c0-44e6d0ef9d8a" />
 
 
 **2. Navigate:**
