@@ -69,9 +69,9 @@ sudo setoolkit
 ```
 
 <img width="346" height="239" alt="Screenshot 2025-10-06 094546" src="https://github.com/user-attachments/assets/12cc3ecc-3055-4514-b1cb-8a4c59490264" />
-
+<br>
 <img width="349" height="232" alt="Screenshot 2025-10-06 094617" src="https://github.com/user-attachments/assets/0f6ae51f-1a02-4c41-8d18-6f5fc346db9b" />
-
+<br>
 <img width="570" height="189" alt="Screenshot 2025-10-06 094641" src="https://github.com/user-attachments/assets/26ba4adb-9e03-4e2a-9cd4-197fc3e7d168" />
 
 **4. Choose:**
@@ -98,7 +98,7 @@ sudo setoolkit
 /var/www/html/
 ```
 <img width="944" height="465" alt="Screenshot 2025-10-06 095400" src="https://github.com/user-attachments/assets/59767083-f5c1-410c-a5a6-5ea5bf94ef18" />
-
+<br>
 <img width="948" height="427" alt="Screenshot 2025-10-06 095756" src="https://github.com/user-attachments/assets/e925d7e0-8a12-481e-9152-f523af2ae373" />
 
 
