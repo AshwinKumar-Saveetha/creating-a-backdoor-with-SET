@@ -60,8 +60,7 @@ sudo setoolkit
 
 <img width="345" height="214" alt="Screenshot 2025-10-06 094432" src="https://github.com/user-attachments/assets/4707f51a-b233-4947-b863-a79ccf2de28b" />
 
-```
-**2. Navigate:**
+**2.Navigate:**
 ```bash
 1) Social-Engineering Attacks  
 2) Website Attack Vectors  
