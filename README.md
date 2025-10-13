@@ -37,7 +37,7 @@ Open terminal and try execute some kali linux commands
        |                                                 +----------------------+
        |                                                             |
        |                                                             v
-       |     2. Victim Enters Credentials → Sent to SET/Attacker    |
+       |     2. Victim Enters Credentials → Sent to SET/Attacker     |
        |                                                             |
        |                                                             v
        |                                                 +----------------------+
@@ -55,10 +55,12 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 **1. Open terminal:**
 ```bash
 sudo setoolkit
+
 ```
-<img width="345" height="213" alt="image" src="https://github.com/user-attachments/assets/13e9c70e-2ed1-4cf8-b8c0-44e6d0ef9d8a" />
 
+<img width="345" height="214" alt="Screenshot 2025-10-06 094432" src="https://github.com/user-attachments/assets/4707f51a-b233-4947-b863-a79ccf2de28b" />
 
+```
 **2. Navigate:**
 ```bash
 1) Social-Engineering Attacks  
@@ -66,41 +68,38 @@ sudo setoolkit
 3) Credential Harvester Attack Method  
 ```
 
-<img width="1917" height="896" alt="Screenshot 2025-09-25 084240" src="https://github.com/user-attachments/assets/11a6bc1e-7907-4e70-9116-441c7d3d43c3" />
+<img width="346" height="239" alt="Screenshot 2025-10-06 094546" src="https://github.com/user-attachments/assets/12cc3ecc-3055-4514-b1cb-8a4c59490264" />
 
-<img width="1642" height="700" alt="Screenshot 2025-09-25 084432" src="https://github.com/user-attachments/assets/e5f8bf6f-45fa-4cec-b2b2-6f30771eb1f8" />
+<img width="349" height="232" alt="Screenshot 2025-10-06 094617" src="https://github.com/user-attachments/assets/0f6ae51f-1a02-4c41-8d18-6f5fc346db9b" />
 
-<img width="1399" height="790" alt="Screenshot 2025-09-25 084503" src="https://github.com/user-attachments/assets/090a5838-12f5-44f6-8f14-e2728c564d2c" />
+<img width="570" height="189" alt="Screenshot 2025-10-06 094641" src="https://github.com/user-attachments/assets/26ba4adb-9e03-4e2a-9cd4-197fc3e7d168" />
 
-<img width="1913" height="819" alt="Screenshot 2025-09-25 084840" src="https://github.com/user-attachments/assets/ece8acd0-ddc5-4a44-9b51-8d3ea74a6e51" />
-
-
-
-
-
-**3. Enter your IP address as the attacker server.**
-192.168.184.30
 **4. Choose:**
 ```bash
 2) Site Cloner
 ```
-<img width="1467" height="762" alt="image" src="https://github.com/user-attachments/assets/e4c648d6-638b-4374-8abd-13f5ab1fefdd" />
+
+<img width="749" height="380" alt="Screenshot 2025-10-06 094727" src="https://github.com/user-attachments/assets/7d8c939f-4ae3-46bc-9f8e-d961ccdc6c90" />
+
 
 **5. Enter the URL of the legitimate site ```(e.g., https://accounts.google.com)```**
-<img width="1232" height="207" alt="image" src="https://github.com/user-attachments/assets/7796eafc-d55a-4935-b485-f6985cbdd188" />
+
+<img width="943" height="279" alt="Screenshot 2025-10-06 095109" src="https://github.com/user-attachments/assets/ac59a8a8-868b-4b99-babd-b3bbc550206e" />
+
 
 **6. Send the generated link to the victim.**
 
-<img width="1918" height="921" alt="image" src="https://github.com/user-attachments/assets/f099d702-926c-44b8-b43b-5f35e3b4424b" />
+<img width="920" height="794" alt="Screenshot 2025-10-06 095308" src="https://github.com/user-attachments/assets/b9b4cde2-f713-4abe-a61d-7ad5d652e949" />
+
 
 
 **7. Once the victim logs in → their credentials are stored in:**
 ```bash
 /var/www/html/
 ```
-192.168.184.30
+<img width="944" height="465" alt="Screenshot 2025-10-06 095400" src="https://github.com/user-attachments/assets/59767083-f5c1-410c-a5a6-5ea5bf94ef18" />
 
-<img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/c75e74ea-a511-438f-840f-89435806f6c8" />
+<img width="948" height="427" alt="Screenshot 2025-10-06 095756" src="https://github.com/user-attachments/assets/e925d7e0-8a12-481e-9152-f523af2ae373" />
 
 
 
